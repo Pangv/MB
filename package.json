@@ -1,0 +1,27 @@
+{
+  "name": "metabank",
+  "version": "1.0.0",
+  "description": "vanilla app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine",
+    "karma": "karma start test/karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pangv/mb.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pangv/mb/issues"
+  },
+  "homepage": "https://github.com/Pangv/mb#readme",
+  "devDependencies": {
+    "jasmine": "^3.1.0",
+    "jasmine-core": "^3.1.0",
+    "karma": "^2.0.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.1"
+  }
+}
